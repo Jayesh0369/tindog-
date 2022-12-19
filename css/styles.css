@@ -161,4 +161,7 @@ p{
         line-height: 1.5;
         font-weight: bold;
         }
+    .download-button{
+        margin: 8% 1% 1%;
+    }
 }
